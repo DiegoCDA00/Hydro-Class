@@ -21,18 +21,24 @@ body {
     text-align: center;  /* Ensure text is centered */
 }
 
-/* Main Heading */
+/* Main Title Styling */
 h1 {
     font-size: 3rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #fff;
 }
 
-/* Paragraph Styling */
-p {
-    font-size: 1.5rem;
-    margin-bottom: 30px;
+/* Water Emoji Styling */
+.emoji {
+    font-size: 3rem; /* Emoji size */
+    margin: 0 10px;  /* Space between emojis and "Hydro" */
+}
+
+/* Subtitle Styling */
+h2 {
+    font-size: 1.5rem;  /* Smaller subtitle font size */
     color: #fff;
+    margin-top: 10px;
 }
 
 /* Link (Button) Styling */
