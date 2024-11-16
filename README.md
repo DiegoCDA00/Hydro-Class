@@ -10,7 +10,7 @@ With just a click, dive into your favorite games and enjoy endless hours of fun.
 
 ## Why Hydro?
 
-- **AD Free!**: Access all games, unblocked and ready to enjoy—no ads, no interruptions, just pure fun anytime.
+- **AD Free**: Access all games, unblocked and ready to enjoy—no ads, no interruptions, just pure fun anytime.
 - **Unblocked & Free**: Play without limits. All games are unblocked and ready to play anytime, anywhere.
 - **Smooth Interface**: Enjoy a clean, minimalist design that focuses on what matters – the games.
 - **Diverse Game Library**: From retro classics to the latest hits, there's something for everyone.
