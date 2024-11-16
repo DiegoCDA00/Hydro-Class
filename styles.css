@@ -18,6 +18,13 @@ body {
     flex-direction: column;   /* Stacks content vertically */
 }
 
+/* Wrapper (Optional - if you want a container for content) */
+.wrapper {
+    width: 100%;
+    max-width: 1000px; /* Limit the width of content */
+    padding: 20px;
+}
+
 /* Heading */
 h1 {
     color: #2d72d9;
@@ -41,3 +48,4 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
