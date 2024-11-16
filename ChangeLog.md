@@ -1,10 +1,8 @@
 # Changelog
 
-## Version 1.0.0
-- Initial release with basic features.
+## Version Beta 0.1
+- Customized stuff and made website ui somewhat better? 
 
-## Version 1.1.0
-- Added dark mode and improved UI.
 
-### Version 1.2.0
-- Bug fixes and performance improvements.
+## Version Beta 0.0
+- Added main read.md for nice menu and did basic stuff and launched web
