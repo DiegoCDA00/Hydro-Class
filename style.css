@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/* Use Fjalla One font for the whole page */
+/* Body and background styling */
 body {
     font-family: 'Fjalla One', sans-serif; /* Apply Fjalla One font */
     background-color: #f0f8ff; /* light blue background */
@@ -13,19 +13,37 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column; /* Stack title and subtitle vertically */
+    text-align: center; /* Center-align text */
+    color: #333; /* Dark text for contrast */
 }
 
+/* Content container */
 .content {
-    text-align: center; /* Center the text */
+    padding: 20px;
 }
 
+/* Title styling */
 .title {
-    font-size: 4em;
+    font-size: 4.5em; /* Bigger size for emphasis */
     color: #2596be; /* Bright blue */
-    margin-bottom: 10px;
+    margin-bottom: 15px; /* Add some space below */
 }
 
+/* Subtitle styling */
 .subtitle {
-    font-size: 1.5em;
+    font-size: 1.8em; /* Slightly larger subtitle */
     color: #4682b4; /* Slightly darker blue */
+    font-weight: lighter; /* Give subtitle a more relaxed feel */
+}
+
+/* Small adjustment for mobile devices */
+@media (max-width: 600px) {
+    .title {
+        font-size: 3.5em; /* Smaller title on small screens */
+    }
+
+    .subtitle {
+        font-size: 1.4em; /* Smaller subtitle on small screens */
+    }
 }
