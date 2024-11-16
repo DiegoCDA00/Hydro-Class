@@ -1,4 +1,4 @@
-# Changelog
+# [Hydros](https://github.com/DiegoCDA00/Hydro-Class/tree/main) Changelog
 
 ## Version Beta 0.1
 - Customized stuff and made website ui somewhat better? 
