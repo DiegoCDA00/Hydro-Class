@@ -24,4 +24,4 @@ Ready to start playing? No more blockers, just pure fun. Dive into **[Hydro](htt
 
 > *"Gaming is a break from the world. Hydro is your space to unwind."* 
 ---
-### View our ChangeLog [Here](https://github.com/DiegoCDA00/Hydro-Class/blob/main/ChangeLog.md)
+### View our ChangeLog [Here](https://github.com/DiegoCDA00/Hydro-Class/blob/main/ChangeLog.md).
