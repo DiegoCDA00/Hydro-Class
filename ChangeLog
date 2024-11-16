@@ -1,2 +1,10 @@
-<h1 style="font-size: 36px;">This is a big changelog title</h1>
-<p style="font-size: 24px;">This is some bigger text in the changelog.</p>
+# Changelog
+
+## Version 1.0.0
+- Initial release with basic features.
+
+## Version 1.1.0
+- Added dark mode and improved UI.
+
+### Version 1.2.0
+- Bug fixes and performance improvements.
