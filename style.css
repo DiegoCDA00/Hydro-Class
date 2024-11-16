@@ -1,1 +1,30 @@
+/* Basic reset for margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* light blue background */
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    text-align: center; /* Center the text */
+}
+
+.title {
+    font-size: 4em;
+    color: #1e90ff; /* Bright blue */
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.5em;
+    color: #4682b4; /* Slightly darker blue */
+}
