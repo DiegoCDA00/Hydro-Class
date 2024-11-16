@@ -5,8 +5,9 @@
     box-sizing: border-box;
 }
 
+/* Use Fjalla One font for the whole page */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Fjalla One', sans-serif; /* Apply Fjalla One font */
     background-color: #f0f8ff; /* light blue background */
     height: 100vh; /* Full viewport height */
     display: flex;
