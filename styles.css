@@ -1,38 +1,52 @@
-/* Full-page Background Image */
-body {
-    font-family: Arial, sans-serif;
-    background-image: url('https://github.com/user-attachments/assets/289b141c-c8e9-4cc6-a452-e9388bf39516'); /* Your image URL */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: #fff; /* White text for contrast */
-    height: 100vh; /* Full height of the screen */
+/* Global Reset */
+* {
     margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://raw.githubusercontent.com/user-attachments/assets/289b141c-c8e9-4cc6-a452-e9388bf39516'); /* Raw image URL */
+    background-size: cover;  /* Cover the whole viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    height: 100vh;  /* Full height of the viewport */
+    color: #fff;  /* Text color is white for contrast */
+    margin: 0;
+    display: flex;  /* Flexbox for centering content */
+    justify-content: center;  /* Horizontally center content */
+    align-items: center;  /* Vertically center content */
+    text-align: center;  /* Ensure text is centered */
+}
+
+/* Main Heading */
 h1 {
     font-size: 3rem;
     margin-bottom: 20px;
+    color: #fff;
 }
 
+/* Paragraph Styling */
 p {
     font-size: 1.5rem;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    color: #fff;
 }
 
+/* Link (Button) Styling */
 a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
-    padding: 10px 20px;
-    background-color: rgba(0, 0, 0, 0.5);
+    padding: 12px 30px;
+    background-color: rgba(0, 0, 0, 0.5);  /* Semi-transparent background for contrast */
     border-radius: 5px;
+    transition: background-color 0.3s ease;
 }
 
+/* Link Hover Effect */
 a:hover {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7); /* Darken background on hover */
 }
