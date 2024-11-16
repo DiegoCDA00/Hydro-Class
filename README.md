@@ -18,7 +18,7 @@ With just a click, dive into your favorite games and enjoy endless hours of fun.
 
 ## 💧 Play, Relax, Repeat.
 
-Ready to start playing? No more blockers, just pure fun. Dive into **Hydro** and let the games begin!
+Ready to start playing? No more blockers, just pure fun. Dive into **[Hydro](https://github.com/DiegoCDA00/Hydro-Class/tree/main)** and let the games begin!
 
 ---
 
